@@ -1,0 +1,11 @@
+#websocket是Html5新增加特性之一，目的是浏览器与服务端建立全双工的通信方式，解决http请求-响应带来过多的资源消耗，同时对特殊场景应用提供了全新的实现方式，比如聊天、股票交易、游戏等对对实时性要求较高的行业领域。
+参考：https://www.cnblogs.com/3dianpomian/p/5902084.html
+https://www.cnblogs.com/nosqlcoco/p/5860730.html
+
+集成webSocket的几种方式
+https://www.cnblogs.com/yangchongxing/p/8474256.html
+https://blog.csdn.net/cxfly957/article/details/79297650/
+
+Spring官方参考文档：
+https://spring.io/projects/spring-security-oauth
+https://blog.csdn.net/lovesomnus/article/details/72995593

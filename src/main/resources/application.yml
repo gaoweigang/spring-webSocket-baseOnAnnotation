@@ -1,0 +1,20 @@
+spring.profiles.active: dev
+
+person:
+     name:
+                      高伟刚1
+                      
+my:
+  servers:
+        - dev.bar.com
+        - foo.bar.com
+  mother:
+        LiuJinJu
+  first-name:
+        GAO
+        
+connection:
+    username: admin
+    #remoteAddress: 192.168.1.1
+
+       
