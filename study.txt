@@ -9,3 +9,8 @@ https://blog.csdn.net/cxfly957/article/details/79297650/
 Spring官方参考文档：
 https://spring.io/projects/spring-security-oauth
 https://blog.csdn.net/lovesomnus/article/details/72995593
+
+
+
+WebSocket issue : Multiple Endpoints may not be deployed to the same path
+https://blog.csdn.net/Milogenius/article/details/79766822
