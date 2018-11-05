@@ -76,12 +76,12 @@ public class MyWebSocket implements InitializingBean, ApplicationContextAware {
  
         sendMessage("欢迎连接");
         
-        while(session.isOpen()) {
+        while(session.isOpen()) {//判断是否连接,或者当有心消息的时候就往前端推送消息
         	try {
         		Double percent = 2.0;
         		
         		if(percent == null) percent = 0.0;
-        		
+
 				session.getBasicRemote().sendText(message + "#" + percent);
 				Thread.sleep(500);
 				if(percent >= 100) {
